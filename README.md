@@ -1,3 +1,5 @@
+<img width="1464" height="833" alt="image" src="https://github.com/user-attachments/assets/9572feba-64a4-417f-9576-079bc594a128" />
+
 # Aristotle 26 — Universal AI Summarizer
 
 Aristotle 26 is a high-performance tool designed to bridge the gap between raw content and AI-powered insights. It allows you to instantly extract, analyze, and prepare content from any webpage, video, or document for summarization across all major AI platforms.
