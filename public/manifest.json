@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Aristotle 26 — Universal AI Summarizer",
+  "version": "1.0.0",
+  "description": "A high-performance tool to grab content from any webpage, video, or PDF and instantly generate AI summaries across all major platforms.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Aristotle 26"
+  },
+  "options_page": "index.html",
+  "icons": {
+    "16": "icon.svg",
+    "48": "icon.svg",
+    "128": "icon.svg"
+  }
+}

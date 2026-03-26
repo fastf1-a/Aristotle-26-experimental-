@@ -1,0 +1,8 @@
+{
+  "name": "Aristotle 26 experimental",
+  "description": "A high-performance tool to grab content from any webpage, video, or PDF and instantly generate AI summaries across all major platforms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

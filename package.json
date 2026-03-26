@@ -1,0 +1,30 @@
+{
+  "name": "omnisummary-—-universal-ai-summarizer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.42.0",
+    "@tailwindcss/vite": "^4.2.2",
+    "docx": "^9.6.1",
+    "jspdf": "^4.2.1",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.12.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.1.38",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
